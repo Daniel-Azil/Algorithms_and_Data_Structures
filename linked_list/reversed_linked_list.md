@@ -1,31 +1,32 @@
 # Reverse a Linked List
 
+### Description
 Given the head of a singly linked list, reverse the list, and return the reversed list.
 
-## Example 1:
-### Input:
+#### Example 1:
+##### Input:
 [1,2,3,4,5]
 
-### Output:
+##### Output:
 [5,4,3,2,1]
 
 
-## Example 2:
-### Input:
+#### Example 2:
+##### Input:
 [1,2]
 
-### Output:
+##### Output:
 [2,1]
 
 
-## Example 3:
-### Input:
+#### Example 3:
+##### Input:
 []
 
 ### Output:
 []
 
-
+# Solution
 ```python
 # Definition for singly-linked list.
 class ListNode:
