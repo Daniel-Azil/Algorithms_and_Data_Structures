@@ -5,7 +5,7 @@ This repository serves as a comprehensive resource for implementing various data
 ## Table of Contents
 
 1. [Arrays](#arrays)
-2. [Linked Lists](#Data_Structure-Algorithms-/linked_list)
+2. [Linked Lists](#linked_list)
 3. [Stacks and Queues](#stacks-and-queues)
 4. [Trees and Graphs](#trees-and-graphs)
 5. [Sorting and Searching](#sorting-and-searching)
