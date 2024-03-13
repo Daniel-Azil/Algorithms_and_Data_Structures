@@ -5,3 +5,4 @@ class Solution:
             if a.isalpha() or a.isdigit():
                 new += a.lower()
         return (new == new[::-1])
+
